@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**Dibora12/Dibora12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hey, I'm Dibora
 
-Here are some ideas to get you started:
+🎓 Software Engineering Student  
+💻 MERN Stack Developer (MongoDB, Express, React, Node.js)  
+🎯 Focused on building modern full-stack web apps  
+🚀 Currently learning advanced backend & deployment  
+🌱 Always curious and improving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏆 GitHub Trophies
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Dibora12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📈 GitHub Stats
+![Dibora's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dibora12&show_icons=true&theme=radical)
+
+---
+
+### 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dibora12&theme=monokai)](https://git.io/streak-stats)
+
+---
+
+### 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dibora12&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn]()
+- 🚧 Portfolio coming soon!
