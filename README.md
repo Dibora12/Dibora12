@@ -1,4 +1,3 @@
-https://user-images.githubusercontent.com/51038890/131240801-9d56151b-334d-44ea-9e10-187f9c7ae85f.gif
 ## Hi there 👋
 
 👋 Hey, I'm Dibora
