@@ -1,4 +1,4 @@
-## Hi ther 👋
+## Hi there 👋
 
 👋 Hey, I'm Dibora
 
