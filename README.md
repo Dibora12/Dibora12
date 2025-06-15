@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D98BA&height=120&section=header&text=Welcome%20to%20Ahmed%20Mashhour's%20GitHub!&fontSize=28&fontAlignY=35&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D98BA&height=120&section=header&text=Welcome%20to%20Dibora%20Shibeshi's%20GitHub!&fontSize=28&fontAlignY=35&fontColor=FFFFFF"/>
 </p>
-
-
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZybWx4ZXo0Y2N0anI1aHd5cWoxYmVndnlubDB5NXN2YWFxOGIybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif"  />
-
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dibora+Shibeshi;+Software+Engineer;" alt="Typing SVG">
 </p>
