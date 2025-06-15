@@ -4,10 +4,8 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dibora+Shibeshi;+Software+Engineer;" alt="Typing SVG">
 </p>
-
-## lofi:
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/typing.gif" />
-<br>  
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif" />
+<br>
 <br>
 <br>
 👋 Hey, I'm Dibora
