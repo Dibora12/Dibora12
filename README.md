@@ -25,4 +25,4 @@
 ### 📫 Connect with Me
 - [LinkedIn:https://www.linkedin.com/in/dibora-shibeshi
 - emial: diborashibeshi@gmail.com
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80&fontColor=ffffff"/>
+
