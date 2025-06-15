@@ -16,11 +16,6 @@
 🌱 Always curious and improving
 
 ---
-## Contact Me
-
-**Email:** [diborashibeshi@gmail.com](mailto:diborashibeshi@gmail.com)
-
-Feel free to reach out for collaborations or if you have any inquiries!
 
 ---
 <h3 align="left">Languages and Tools:</h3>
