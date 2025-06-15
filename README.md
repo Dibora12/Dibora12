@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D98BA&height=120&section=header&text=Welcome%20to%20Dibora%20Shibeshi's%20GitHub!&fontSize=28&fontAlignY=35&fontColor=FFFFFF"/>
-</p>
-<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dibora+Shibeshi;+Software+Engineer;" alt="Typing SVG">
 </p>
                   <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif" />
